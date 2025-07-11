@@ -1,0 +1,17 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.7.1",
+    "nyc": "^17.1.0"
+  }
+}
